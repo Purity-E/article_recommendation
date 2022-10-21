@@ -1,14 +1,14 @@
-# Article Recommendation
-This project is about building an article recommendation system. 
+# Book Recommendation
+This project is about building an book recommendation system. 
 
 ## Day 1
 - Come up with project idea
 
-   Project idea: Create an article recommendation system
+   Project idea: Create a book recommendation system
 
 - Select dataset for the project
 
-  Dataset used: https://www.kaggle.com/datasets/jainilcoder/article-recommendation-system
+  Dataset used: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
 - Create a virtual environment for the project
 
