@@ -15,5 +15,6 @@ This project is about building a book recommendation system.
 - Install dependencies
 
 ## Day 2
+- Perform EDA on the data in a jupyter notebook.
 
 
