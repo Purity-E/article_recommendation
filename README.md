@@ -1,5 +1,5 @@
 # Book Recommendation
-This project is about building an book recommendation system. 
+This project is about building a book recommendation system. 
 
 ## Day 1
 - Come up with project idea
