@@ -10,7 +10,7 @@ This project is about building a book recommendation system.
 
   Dataset used: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
-- Create a virtual environment for the project
+- Create a virtual environment with Pipenv for the project
 
 - Install dependencies
 
@@ -22,5 +22,13 @@ This project is about building a book recommendation system.
 
 ## Day 4
 - Work on a content-based recommendation system
+
+## Day 5
+- Continue working on content-based recommendation system
+
+
+## Quick solutions
+
+python -m spacy download en_core_web_sm
 
 
