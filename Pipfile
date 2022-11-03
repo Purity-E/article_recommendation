@@ -11,6 +11,7 @@ seaborn = "*"
 matplotlib = "*"
 spacy = "*"
 nltk = "*"
+pillow = "*"
 
 [dev-packages]
 ipykernel = "*"
